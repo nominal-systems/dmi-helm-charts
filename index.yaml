@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dmi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-16T09:36:38.534249-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c8a0d940a6194a1ece88634d8f61d0741471eb46773cbfcee588d015ca99402
+    name: dmi
+    type: application
+    urls:
+    - https://github.com/nominal-systems/dmi-helm-charts/releases/download/dmi-0.2.0/dmi-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-09-16T09:36:38.534259-04:00"
