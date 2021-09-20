@@ -41,8 +41,4 @@ entries:
     urls:
     - https://github.com/nominal-systems/dmi-helm-charts/releases/download/dmi-0.2.0/dmi-0.2.0.tgz
     version: 0.2.0
-<<<<<<< HEAD
 generated: "2021-09-20T13:01:00.208584-04:00"
-=======
-generated: "2021-09-16T12:15:49.010424-04:00"
->>>>>>> e645c8f5ae3d7af533cdf45d90320cf7a997e124
